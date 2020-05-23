@@ -29,7 +29,6 @@ def monopoly_with_third_tier
   new_hash[:railroads][:rent_in_dollars] = {}
   new_hash[:railroads][:names] = {}
   new_hash
- 
 end
 
 def monopoly_with_fourth_tier
